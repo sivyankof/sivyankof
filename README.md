@@ -1,5 +1,10 @@
 ### Hi there 👋 I'm Artem!
 
+- 🔭 I’m currently working on something cool
+- 💬 Ask me about GitHub
+
+![Profile views](https://gpvc.arturio.dev/sivyankof)
+
  
 <!--
 **sivyankof/sivyankof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
